@@ -577,7 +577,6 @@ function headLinks() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Telegram文件存储与分享平台">
-    <link rel="shortcut icon" href="https://pan.811520.xyz/2025-02/1739241502-tgfile-favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   `;
 }
@@ -586,11 +585,7 @@ function headLinks() {
 function copyright() {
   return `
     <p>
-      <span><i class="fas fa-copyright"></i> 2025 Copyright by Yutian81</span><span>|</span>
-      <a href="https://github.com/yutian81/CF-tgfile" target="_blank">
-      <i class="fab fa-github"></i> GitHub Repo</a><span>|</span>
-      <a href="https://blog.811520.xyz/" target="_blank">
-      <i class="fas fa-blog"></i> QingYun Blog</a>
+      <span><i class="fas fa-copyright"></i> 2025 TG File Storage</span>
     </p>
   `;
 }
