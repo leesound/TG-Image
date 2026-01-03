@@ -1,4 +1,4 @@
-name = "cf-tgfile"
+name = "TG-Image"
 main = "_worker.js"
 compatibility_date = "2025-07-18"
 keep_vars = true
@@ -8,3 +8,4 @@ keep_vars = true
 binding = "DATABASE"
 database_name = "tgfile-db"
 id = "{CF_D1_ID}" # action部署时被变量替换
+
